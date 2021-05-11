@@ -1,7 +1,11 @@
-# NYC Property Price Analysis
+# Natural Language Processing - Sentiment Analysis With NLTK
 
-We are working to understand selling prices for properties in New York City during 2016 and 2017. 
-Focus will be placed on understanding those price by borough and building class category. 
-We will also build a regression model to predict prices based on various factors.
+**Part 1 - Processing Text with NLTK**
+We'll scrape the novel from the website Project Gutenberg using the Python package "requests". 
+Then, we'll extract words from this web data using "BeautifulSoup". 
+Finally, we'll dive into analyzing the distribution of words using the "Natural Language Tookit (NLTK)".
 
-https://nbviewer.jupyter.org/github/shihyuanwang/NYCProperty_SalePriceAnalysis/blob/main/NYC_Property_Sale_Price_Analysis.ipynb
+**Part 2 - Perform Sentiment Analysis with NLTK/VADER**
+Use SentimentIntensityAnalyzer to perform sentiment analysis for Disney Park reviews
+
+
