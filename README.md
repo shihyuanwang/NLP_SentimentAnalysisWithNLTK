@@ -6,6 +6,7 @@ We'll scrape the novel from the website Project Gutenberg using the Python packa
 Then, we'll extract words from this web data using "BeautifulSoup". 
 Finally, we'll dive into analyzing the distribution of words using the "Natural Language Tookit (NLTK)".
 
+\
 **Part 2 - Perform Sentiment Analysis with NLTK/VADER**
 
 Use SentimentIntensityAnalyzer to perform sentiment analysis for Disney Park reviews
