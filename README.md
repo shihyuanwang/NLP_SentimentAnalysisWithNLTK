@@ -11,3 +11,4 @@ Finally, we'll dive into analyzing the distribution of words using the "Natural 
 Use SentimentIntensityAnalyzer to perform sentiment analysis for Disney Park reviews
 
 
+https://nbviewer.jupyter.org/github/shihyuanwang/NLP_SentimentAnalysisWithNLTK/blob/main/NLP_Sentiment_Analysis_with_NLTK.ipynb
